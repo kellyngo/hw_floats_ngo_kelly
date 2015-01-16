@@ -20,12 +20,12 @@
 
 .box-3 {
     background: #0021A5; /*Blue*/
-    clear: right;
-    float: right;
+    clear: left;
+    float: left;
 }
 
 .box-4 {
     background: #FF4A00; /*Orange*/
-    clear: left;
+    clear: right;
     float: right;
 }
