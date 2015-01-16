@@ -1,12 +1,14 @@
-img {
-    width: 400px;
-    float: left;
-}
-
 h1 {
 	float: right;
 }
 
-p:nth-child(5){
+img {
+    width: 400px;
+    clear: right;
+    float: left;
+}
+
+p:nth-child(n+5) {
 	clear: left;
+	float: left;
 }
